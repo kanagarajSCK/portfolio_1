@@ -38,7 +38,7 @@ const Hero = () => {
 
         {/* Social Icons */}
         <div className="flex space-x-6 mt-8 text-2xl">
-          <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/kanagarajsck/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="hover:text-blue-500 transition-colors" />
           </a>
           <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
